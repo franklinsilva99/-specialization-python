@@ -7,12 +7,13 @@ Este repositorio documenta todo mi aprendizaje durante la Especialización en Py
 --------------------------------------------------------
 👨‍💻 Sobre el Autor
 ---------------------------------------------------------------
-👤 Nombre: Franklin Silva
-📧 Contacto: ✉️ fsilvamaguina@gmail.com 
+👤 Nombre: Franklin Silva;
+📧 Contacto: ✉️ fsilvamaguina@gmail.com;
 🔗 LinkedIn: 🌐 [linkedin.com/in/franklinsilvam?](https://www.linkedin.com/in/franklinsilvam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
---------------------------------------------------------
+
 --------------------------------------------------------
 🔖 Contenido
+------------------------------------------------------
 Bloque I: Estudio del Lenguaje de Programación según la Documentación Oficial
  1. Clase 1: Introducción
     Qué es un lenguaje de programación
@@ -76,58 +77,67 @@ Bloque I: Estudio del Lenguaje de Programación según la Documentación Oficial
  16. Clase 16: POO II
     Atributos de clase vs atributos de objetos
     Métodos de clase y métodos estáticos
+
+----------------------------------------------------------
 Bloque II: Aplicaciones de Python
- 17. Clase 17: Interfaces Gráficas (GUI)
+ 18. Clase 17: Interfaces Gráficas (GUI)
     Descripción de PyQt5
     Clases principales (QApplication, QWidget, QPushButton, QLabel)
     Diseño de botones, displays y sliders
     Introducción a Qt Designer
- 18. Clase 18: Bases de Datos
+ 19. Clase 18: Bases de Datos
     Introducción a SQL y MySQL
     Instalación de MySQL
     Creación de tablas e integración de consultas en la GUI
- 19. Clase 19: Numpy
+ 20. Clase 19: Numpy
     Instalación de Numpy
     Operaciones con matrices (Numpy.array)
     Slicing y matrices especiales
- 20. Clase 20: Matplotlib (offline)
+ 21. Clase 20: Matplotlib (offline)
     Dibujado de gráficos 2D
     Ploteo simple y múltiple
     Personalización de ventanas y creación de histogramas
- 21. Clase 21: OpenCV
+ 22. Clase 21: OpenCV
     Procesamiento de imágenes y videos
     Operaciones bitwise y detección de objetos por color
- 22. Clase 22: OpenCV y PyQt5
+ 23. Clase 22: OpenCV y PyQt5
     Integración de PyQt5 con OpenCV
     Captura y visualización de imágenes en la GUI
- 23. Clase 23: Anaconda y Pandas
+ 24. Clase 23: Anaconda y Pandas
     Instalación de Anaconda y creación de entornos (environments)
     Instalación de Numpy y Matplotlib
     Manipulación de datos con Pandas (DataFrame)
- 24. Clase 24: Machine Learning
+ 25. Clase 24: Machine Learning
     Introducción al machine learning
     Clasificación de algoritmos
     Regresión lineal y función de costo
     Caso práctico: Predicción de costos por incidentes
- 25. Clase 25: Deep Learning I
+ 26. Clase 25: Deep Learning I
     Introducción al deep learning y redes neuronales
     Implementación de la neurona de McCulloch y Pitts
     Caso práctico: Diagnóstico de cáncer de mama
- 26. Clase 26: Deep Learning II
+ 27. Clase 26: Deep Learning II
     Implementaciones avanzadas y próximos pasos
+
+    ------------------------------------------------------------
 🛠️ Tecnologías
   Lenguaje: Python
   Frameworks: PyQt5, OpenCV
   Herramientas de análisis: NumPy, Matplotlib, Pandas
   Bases de datos: MySQL
+
+  ----------------------------------------------------------------
 🌟 Objetivo
   Desarrollar una sólida comprensión del lenguaje Python aplicándola en:
   
   Desarrollo de aplicaciones GUI
   Procesamiento de imágenes
   Análisis de datos, machine learning y deep learning
+
+  ---------------------------------------------------------------
 ✨ Cómo contribuir
   Si tienes sugerencias, ¡no dudes en abrir un issue o hacer un pull request! 🤝
-
+  
+ --------------------------------------------------------
 ⚡ Licencia
   Este repositorio está bajo la licencia MIT.
