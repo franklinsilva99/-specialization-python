@@ -7,74 +7,77 @@ Este repositorio documenta todo mi aprendizaje durante la Especialización en Py
 --------------------------------------------------------
 👨‍💻 Sobre el Autor
 ---------------------------------------------------------------
-👤 Nombre: Franklin Silva;
-📧 Contacto: ✉️ fsilvamaguina@gmail.com;
-🔗 LinkedIn: 🌐 [linkedin.com/in/franklinsilvam?](https://www.linkedin.com/in/franklinsilvam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+. 👤 Nombre: Franklin Silva
+
+. 📧 Contacto: ✉️ fsilvamaguina@gmail.com
+
+. 🔗 LinkedIn: 🌐 [linkedin.com/in/franklinsilvam?](https://www.linkedin.com/in/franklinsilvam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 --------------------------------------------------------
 🔖 Contenido
 ------------------------------------------------------
 Bloque I: Estudio del Lenguaje de Programación según la Documentación Oficial
  1. Clase 1: Introducción
-    Qué es un lenguaje de programación
-    Tipos y niveles de lenguajes
-    Introducción a Python e instalación
-    Implementación CPython y contexto del lenguaje C con Python
-    Variables y objetos (Heap vs Stack)
-    Tiempo de vida de un objeto y Garbage Collector
-    Objetos numéricos
- 2. Clase 2: Objetos
- 3. Clase 3: Modelo de datos de Python
+    . Qué es un lenguaje de programación
+    . Tipos y niveles de lenguajes
+    . Introducción a Python e instalación
+    . Implementación CPython y contexto del lenguaje C con Python
+    . Variables y objetos (Heap vs Stack)
+    . Tiempo de vida de un objeto y Garbage Collector
+    . Objetos numéricos
+    
+ 3. Clase 2: Objetos
+ 4. Clase 3: Modelo de datos de Python
     Objetos secuencia: Listas, tuplas y strings
     Cabecera de listas vs tuplas
     Index y slicing
     Pruebas de mutabilidad e inmutabilidad
     Interpretación del Heap/Stack Memory en RAM
- 4. Clase 4: Métodos y String
+ 5. Clase 4: Métodos y String
     Métodos en objetos, listas, tuplas y strings
- 5. Clase 5: Estructuras II
+ 6. Clase 5: Estructuras II
     Diccionarios (Mappings)
     Index y Heap/Stack memory
     Objetos invocables: Funciones, métodos y clases
- 6. Clase 6: Jerarquías entre objetos
+ 7. Clase 6: Jerarquías entre objetos
     Clases estándar en Python
     Clases raíz principales y metaclases
     Type sobre las clases estándar
     Diagrama de herencia
- 7. Clase 7: Operadores
+ 8. Clase 7: Operadores
     Funciones de entrada y salida
     Operadores aritméticos, relacionales y lógicos
     Ejercicios prácticos
- 8. Clase 8: Estructuras de control
+ 9. Clase 8: Estructuras de control
     Sentencias condicionales: if, elif y else
     Sentencias while y for (anidados)
     Ejercicios prácticos con bucles
- 9. Clase 9: Funciones II
+ 10. Clase 9: Funciones II
     Decoradores y creación de funciones decoradoras
     Recursividad: Caso base y recursivo
     Desbordamiento del stack
     Introducción a los fractales
- 10. Clase 10: Funciones I
+ 11. Clase 10: Funciones I
     Definición de función, stack y heap en RAM
     Parámetros y argumentos (*args, **kwargs)
- 11. Clase 11: Estructuras por comprensión
+ 12. Clase 11: Estructuras por comprensión
     Objetos tipo secuencia, conjunto y mappings
     Ejercicios de listas por comprensión
- 12. Clase 12: Programación funcional (offline)
+ 13. Clase 12: Programación funcional (offline)
     Funciones Lambda, Map, Filter
     Comparación Lambda/Map/Filter vs listas por comprensión
- 13. Clase 13: Objetos tipo module
+ 14. Clase 13: Objetos tipo module
     Creación de módulos
     Implementación CPython y análisis de __pycache__
- 14. Clase 14: Paquetes, errores y excepciones (offline)
+ 15. Clase 14: Paquetes, errores y excepciones (offline)
     Creación de paquetes
     Aserciones (assert)
     Tipos de errores y excepciones
- 15. Clase 15: POO I
+ 16. Clase 15: POO I
     Conceptos básicos de POO (Clases, objetos, métodos y atributos)
     Abstracción de un caso real a POO
     Construcción de una clase desde cero
- 16. Clase 16: POO II
+ 17. Clase 16: POO II
     Atributos de clase vs atributos de objetos
     Métodos de clase y métodos estáticos
 
