@@ -4,13 +4,12 @@ Este repositorio documenta todo mi aprendizaje durante la Especialización en Py
 
 Este repositorio documenta todo mi aprendizaje durante la Especialización en Python, abarcando desde fundamentos del lenguaje hasta temas avanzados como bases de datos, interfaces gráficas, procesamiento digital de imágenes, machine learning y deep learning.
 
------------------------------------------------------------
 --------------------------------------------------------
 👨‍💻 Sobre el Autor
 ---------------------------------------------------------------
 👤 Nombre: Franklin Silva
 📧 Contacto: ✉️ fsilvamaguina@gmail.com 
-🔗 LinkedIn: 🌐 linkedin.com/in/franklinsilvam?
+🔗 LinkedIn: 🌐 [linkedin.com/in/franklinsilvam?](https://www.linkedin.com/in/franklinsilvam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 --------------------------------------------------------
 --------------------------------------------------------
 🔖 Contenido
